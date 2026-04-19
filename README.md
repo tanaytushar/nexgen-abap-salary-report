@@ -1,5 +1,5 @@
 # 🏢 NexGen Corp — Employee Salary Intelligence Report
-### SAP ABAP Capstone Project | KIIT | April 2026
+### SAP ABAP Capstone Project | KIIT | 
 
 ---
 
@@ -7,10 +7,10 @@
 
 This capstone project implements a **Custom ALV Grid Report** in SAP ABAP for a fictitious company called **NexGen Corporation**. The report provides a comprehensive employee salary intelligence dashboard with dynamic filtering, department-wise subtotals, color-coded salary bands, and Excel export functionality.
 
-> **Student:** [Your Full Name]  
-> **Roll No:** [Your Roll Number]  
-> **Batch/Program:** [Your Batch/Program]  
-> **Specialization:** SAP ABAP Backend Developer  
+> **Student:** Tanay Tushar
+> **Roll No:** 2305096  
+> **Batch/Program:** B-Tech 
+> **Specialization:** CSE
 
 ---
 
